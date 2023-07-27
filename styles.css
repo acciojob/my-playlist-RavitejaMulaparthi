@@ -1,1 +1,48 @@
-/*  your css code here. If applicable */
+body{
+	background: #cccccc;
+}
+.container{
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+h2{
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+h6{
+	margin-top: 0px;
+}
+.Player_one{
+	background-color: white;
+	border: 1px solid black;
+	padding: 10px;
+	line-height: 25px;
+	width:95%;
+	border-radius: 4px;
+}
+.Player_one a{
+	text-decoration: none;
+}
+.Player_one ul{
+	list-style-type: none;
+	padding: 0px;
+}
+.Player_two{
+	background-color: white;
+	padding:10px;
+	border:1px solid black;
+	width:325px;
+	border-radius: 2%;
+}
+.Player_two h6{
+	text-align: left;
+	margin:0;
+	padding:0;
+}
+.Player_two audio{
+	width:320px;
+	height: 50px;
+	margin-top:5px;
+}
